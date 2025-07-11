@@ -1,0 +1,1 @@
+print("hi iam irtikaa i am irtika")
